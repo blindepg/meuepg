@@ -2,12 +2,1312 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvouroverde.gif|http://www.lineup.tv.br/canais/redeminas.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="A&amp;E HD">
     <display-name lang="pt">A&amp;E HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvcamposdeminas.gif|http://www.lineup.tv.br/canais/redeminas.gif|http://www.lineup.tv.br/canais/cultura.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX1">
+    <display-name lang="pt">FOX1</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Action">
+    <display-name lang="pt">FOX Action</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-action.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="pt">FOX Life</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-life.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Life HD">
+    <display-name lang="pt">FOX Life HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-life-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Sports">
+    <display-name lang="pt">FOX Sports</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-sports.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-sports-2.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2 HD">
+    <display-name lang="pt">Fox Sports 2 HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-sports-2-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Fox Sports HD">
+    <display-name lang="pt">Fox Sports HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-sports-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fx.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fx-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo">
+    <display-name lang="pt">Nat Geo</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/nat-geo.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="pt">Nat Geo HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/nat-geo-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/nat-geo-wild-hd.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="pt">Nat Geo Wild</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/nat-geo-wild.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <programme start="20191003003000 -0300" stop="20191003011500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003011500 -0300" stop="20191003020500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003020500 -0300" stop="20191003023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003023000 -0300" stop="20191003030000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003030000 -0300" stop="20191003033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003033000 -0300" stop="20191003043000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003043000 -0300" stop="20191003050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003050000 -0300" stop="20191003053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003053000 -0300" stop="20191003060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003060000 -0300" stop="20191003065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003065000 -0300" stop="20191003074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003074000 -0300" stop="20191003080500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003080500 -0300" stop="20191003083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003083000 -0300" stop="20191003092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003092000 -0300" stop="20191003101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003101000 -0300" stop="20191003110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003110000 -0300" stop="20191003115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003115000 -0300" stop="20191003124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003124000 -0300" stop="20191003130500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003130500 -0300" stop="20191003133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003133000 -0300" stop="20191003142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003142000 -0300" stop="20191003151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003151000 -0300" stop="20191003160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003160000 -0300" stop="20191003165000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003165000 -0300" stop="20191003174000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003174000 -0300" stop="20191003183000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003183000 -0300" stop="20191003192500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003192500 -0300" stop="20191003211000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Robocop</title>
+    <sub-title lang="pt">O Policial do Futuro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003211000 -0300" stop="20191003220000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003220000 -0300" stop="20191003225000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191003225000 -0300" stop="20191004002000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Olhos de Dragão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004002000 -0300" stop="20191004011000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004011000 -0300" stop="20191004020000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004020000 -0300" stop="20191004023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004023000 -0300" stop="20191004030000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004030000 -0300" stop="20191004033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004033000 -0300" stop="20191004043000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004043000 -0300" stop="20191004050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004050000 -0300" stop="20191004053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004053000 -0300" stop="20191004060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004060000 -0300" stop="20191004065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004065000 -0300" stop="20191004074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004074000 -0300" stop="20191004080500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004080500 -0300" stop="20191004083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004083000 -0300" stop="20191004092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004092000 -0300" stop="20191004101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004101000 -0300" stop="20191004110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004110000 -0300" stop="20191004115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004115000 -0300" stop="20191004124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004124000 -0300" stop="20191004130500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004130500 -0300" stop="20191004133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004133000 -0300" stop="20191004142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004142000 -0300" stop="20191004151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004151000 -0300" stop="20191004160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004160000 -0300" stop="20191004165500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004165500 -0300" stop="20191004175000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004175000 -0300" stop="20191004184500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004184500 -0300" stop="20191004194000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004194000 -0300" stop="20191004211000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Hector</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004211000 -0300" stop="20191004220000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004220000 -0300" stop="20191004225000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191004225000 -0300" stop="20191005010000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Menina de Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005010000 -0300" stop="20191005014500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005014500 -0300" stop="20191005023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005023000 -0300" stop="20191005030000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005030000 -0300" stop="20191005033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005033000 -0300" stop="20191005043000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005043000 -0300" stop="20191005050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005050000 -0300" stop="20191005053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005053000 -0300" stop="20191005060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005060000 -0300" stop="20191005065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005065000 -0300" stop="20191005074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005074000 -0300" stop="20191005083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005083000 -0300" stop="20191005092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Segurança Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005092000 -0300" stop="20191005101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005101000 -0300" stop="20191005110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005110000 -0300" stop="20191005115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005115000 -0300" stop="20191005124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005124000 -0300" stop="20191005133500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005133500 -0300" stop="20191005142500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005142500 -0300" stop="20191005151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005151000 -0300" stop="20191005160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005160000 -0300" stop="20191005165000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005165000 -0300" stop="20191005173500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Segurança Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005173500 -0300" stop="20191005190500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Por um Fio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005190500 -0300" stop="20191005212000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Menina de Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005212000 -0300" stop="20191005234000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Guerreiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191005234000 -0300" stop="20191006004000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006004000 -0300" stop="20191006014000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006014000 -0300" stop="20191006023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006023000 -0300" stop="20191006032000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006032000 -0300" stop="20191006041000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006041000 -0300" stop="20191006050500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006050500 -0300" stop="20191006060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006060000 -0300" stop="20191006065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006065000 -0300" stop="20191006074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Casos Arquivados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006074000 -0300" stop="20191006083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006083000 -0300" stop="20191006092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006092000 -0300" stop="20191006101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Segurança Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006101000 -0300" stop="20191006110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006110000 -0300" stop="20191006115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006115000 -0300" stop="20191006124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Casos Arquivados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006124000 -0300" stop="20191006133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006133000 -0300" stop="20191006142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006142000 -0300" stop="20191006151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Segurança Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006151000 -0300" stop="20191006160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Six: Esquadrão Antiterrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006160000 -0300" stop="20191006164500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Six: Esquadrão Antiterrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006164500 -0300" stop="20191006190000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Menina de Ouro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006190000 -0300" stop="20191006212000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Guerreiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006212000 -0300" stop="20191006231500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Viagem Maldita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191006231500 -0300" stop="20191007012500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Os 33</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007012500 -0300" stop="20191007022000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Segurança Máxima</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007022000 -0300" stop="20191007032000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007032000 -0300" stop="20191007041500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007041500 -0300" stop="20191007051000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Casos Arquivados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007051000 -0300" stop="20191007060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007060000 -0300" stop="20191007065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007065000 -0300" stop="20191007074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007074000 -0300" stop="20191007080500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007080500 -0300" stop="20191007083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007083000 -0300" stop="20191007092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007092000 -0300" stop="20191007101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007101000 -0300" stop="20191007103500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007103500 -0300" stop="20191007110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007110000 -0300" stop="20191007115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007115000 -0300" stop="20191007124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007124000 -0300" stop="20191007131000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007131000 -0300" stop="20191007134000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007134000 -0300" stop="20191007143500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007143500 -0300" stop="20191007153000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007153000 -0300" stop="20191007162500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007162500 -0300" stop="20191007171500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007171500 -0300" stop="20191007174000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007174000 -0300" stop="20191007180500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007180500 -0300" stop="20191007185500 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007185500 -0300" stop="20191007195000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007195000 -0300" stop="20191007204000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007204000 -0300" stop="20191007213000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007213000 -0300" stop="20191007222000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007222000 -0300" stop="20191007224500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007224500 -0300" stop="20191007231000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191007231000 -0300" stop="20191008000000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Jovens Condenados: Perpétua Ou Condicional?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008000000 -0300" stop="20191008005000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008005000 -0300" stop="20191008014000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008014000 -0300" stop="20191008023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008023000 -0300" stop="20191008032500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008032500 -0300" stop="20191008035000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008035000 -0300" stop="20191008041500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008041500 -0300" stop="20191008051000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008051000 -0300" stop="20191008053500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008053500 -0300" stop="20191008060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008060000 -0300" stop="20191008065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008065000 -0300" stop="20191008074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008074000 -0300" stop="20191008080500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008080500 -0300" stop="20191008083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008083000 -0300" stop="20191008092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008092000 -0300" stop="20191008101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008101000 -0300" stop="20191008110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008110000 -0300" stop="20191008115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008115000 -0300" stop="20191008124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008124000 -0300" stop="20191008130500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008130500 -0300" stop="20191008133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008133000 -0300" stop="20191008142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008142000 -0300" stop="20191008151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008151000 -0300" stop="20191008160500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008160500 -0300" stop="20191008163500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira: EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008163500 -0300" stop="20191008173000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008173000 -0300" stop="20191008182000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008182000 -0300" stop="20191008191000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008191000 -0300" stop="20191008211000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Escobar: Paraíso Perdido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008211000 -0300" stop="20191008220000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008220000 -0300" stop="20191008225000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008225000 -0300" stop="20191009003500 -0300" channel="A&amp;E HD">
+    <title lang="pt">O Grande Kilapy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009003500 -0300" stop="20191009013000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009013000 -0300" stop="20191009023000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009023000 -0300" stop="20191009030000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009030000 -0300" stop="20191009033000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009033000 -0300" stop="20191009043000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009043000 -0300" stop="20191009050000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009050000 -0300" stop="20191009053000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009053000 -0300" stop="20191009060000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009060000 -0300" stop="20191009065000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009065000 -0300" stop="20191009074000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009074000 -0300" stop="20191009080500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009080500 -0300" stop="20191009083000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009083000 -0300" stop="20191009092000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009092000 -0300" stop="20191009101000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009101000 -0300" stop="20191009110000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009110000 -0300" stop="20191009115000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009115000 -0300" stop="20191009124000 -0300" channel="A&amp;E HD">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009124000 -0300" stop="20191009130500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009130500 -0300" stop="20191009133000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009133000 -0300" stop="20191009142000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009142000 -0300" stop="20191009151000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009151000 -0300" stop="20191009160000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Bull</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009160000 -0300" stop="20191009165000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009165000 -0300" stop="20191009174000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Tratamento de Choque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009174000 -0300" stop="20191009183000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009183000 -0300" stop="20191009192000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009192000 -0300" stop="20191009211000 -0300" channel="A&amp;E HD">
+    <title lang="pt">O Grande Kilapy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009211000 -0300" stop="20191009220000 -0300" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009220000 -0300" stop="20191009225000 -0300" channel="A&amp;E HD">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009225000 -0300" stop="20191010003500 -0300" channel="A&amp;E HD">
+    <title lang="pt">Rocky 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
 </tv>
