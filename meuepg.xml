@@ -308,6 +308,11 @@
     <display-name lang="pt">A&amp;E</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/ae.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <channel id="ID - Investigação Discovery">
     <display-name lang="pt">ID - Investigação Discovery</display-name>
     <url>http://www.clarotv.com.br</url>
